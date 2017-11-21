@@ -1,3 +1,5 @@
+# program by Stupka Bogdan
+
 import argparse
 import logging
 import config
